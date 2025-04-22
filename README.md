@@ -26,8 +26,6 @@ A web application built with the MERN stack (MongoDB, Express.js, React, Node.js
 
 ## 📸 Screenshots
 
-_Note: Replace these placeholder images with actual screenshots of your application._
-
 - **Login Page:**
   ![Login Page](screenshots/signin%20page.png)
 
