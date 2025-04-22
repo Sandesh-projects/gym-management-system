@@ -1,0 +1,47 @@
+# Ignore node_modules directories in both server and client
+node_modules/
+
+# Ignore environment variable files
+.env
+
+# Ignore build output directories (frontend)
+# Vite's default build output is 'dist'
+client/dist/
+# Common build outputs for other tools
+client/build/
+client/out/
+client/public/ # Sometimes build output goes here
+
+# Ignore uploaded files directory (backend)
+# If your server saves uploads to a specific folder, ignore it
+server/uploads/
+
+# Ignore logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Ignore macOS files
+.DS_Store
+
+# Ignore editor/IDE specific files
+.vscode/ # VS Code settings
+.idea/ # IntelliJ/WebStorm settings
+*.sublime-project
+*.sublime-workspace
+
+# Ignore coverage directories
+coverage/
+
+# Optional: Ignore specific files you might generate during development
+# For example, if you have temporary test files or database dumps
+# *.tmp
+# *.swp
+# dump.rdb
+# *.sqlite
+
+# Optional: Ignore compiled files (if any)
+# *.js.map # Source maps
+# *.css.map
