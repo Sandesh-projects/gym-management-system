@@ -29,34 +29,34 @@ A web application built with the MERN stack (MongoDB, Express.js, React, Node.js
 _Note: Replace these placeholder images with actual screenshots of your application._
 
 - **Login Page:**
-  ![Login Page](screenshots/login-page.png)
+  ![Login Page](screenshots/signin%20page.png)
 
 - **Sign Up Page:**
-  ![Sign Up Page](screenshots/signup-page.png)
+  ![Sign Up Page](screenshots/signup%20page.png)
 
 - **Admin Dashboard:**
-  ![Admin Dashboard](screenshots/admin-dashboard.png)
+  ![Admin Dashboard](screenshots/adminDashboard.png)
 
 - **Manage Members (Admin):**
-  ![Manage Members](screenshots/admin-manage-members.png)
+  ![Manage Members](screenshots/adminmanagemember.png)
 
 - **Assign Package Modal (Admin):**
-  ![Assign Package Modal](screenshots/admin-assign-package-modal.png)
+  ![Assign Package Modal](screenshots/adminmanagefee.png)
 
 - **Manage Bills (Admin):**
-  ![Manage Bills](screenshots/admin-manage-bills.png)
+  ![Manage Bills](screenshots/adminmanagebills.png)
 
 - **Member Dashboard:**
-  ![Member Dashboard](screenshots/member-dashboard.png)
+  ![Member Dashboard](screenshots/memberdashboard.png)
 
 - **Member Bills Page:**
-  ![Member Bills](screenshots/member-bills-page.png)
+  ![Member Bills](screenshots/memberbill.png)
 
 - **Member Notifications Page:**
-  ![Member Notifications](screenshots/member-notifications-page.png)
+  ![Member Notifications](screenshots/membernotifications.png)
 
 - **User Profile Page:**
-  ![User Profile](screenshots/user-profile-page.png)
+  ![User Profile](screenshots/userprofile.png)
 
 ## 🛠️ Technologies Used
 
