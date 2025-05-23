@@ -43,7 +43,7 @@ function App() {
         {" "}
         {/* AuthProvider should also wrap the application */}
         <Navbar /> {/* Include Navbar */}
-        <main className="py-3">
+        <main className="py-3" style={{ height: "81.5vh" }}>
           {" "}
           {/* Added some padding */}
           <Routes>
@@ -152,7 +152,9 @@ function App() {
             <Route path="*" element={<NotFoundPage />} />
           </Routes>
         </main>
-        <Footer /> {/* Include Footer */}
+        <div className="footer" style={{ bottom: 0 }}>
+          <Footer /> {/* Include Footer */}
+        </div>
       </AuthProvider>
     </BrowserRouter>
   );

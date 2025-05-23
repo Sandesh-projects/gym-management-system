@@ -4,7 +4,7 @@ import { Container, Row, Col } from "react-bootstrap";
 
 function Footer() {
   return (
-    <footer className="bg-dark text-white mt-4 py-3">
+    <footer className="bg-dark text-white mt-4 py-3" style={{ bottom: 0 }}>
       {" "}
       {/* Added margin-top and padding */}
       <Container>
